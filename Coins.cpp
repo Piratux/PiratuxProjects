@@ -1,3 +1,5 @@
+//This code was written as a solution to "Coins" challenge
+
 #include <iostream>
 #include <fstream>
 #include <vector>
