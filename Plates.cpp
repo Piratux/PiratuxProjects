@@ -1,3 +1,5 @@
+//This code is for Plates challenge from Kick Start competition
+//https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc7/00000000001d40bb
 #include <iostream>
 #include <fstream>
 #include <vector>
