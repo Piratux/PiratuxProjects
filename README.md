@@ -1,2 +1,2 @@
-# PiratuxProjects
-Maybe I'll put my project code here, idk
+# Random stuff
+Some random code fragments lay here
